@@ -4,7 +4,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas)
 ![NLP](https://img.shields.io/badge/NLP-Feature%20Extraction-purple?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 > An end-to-end **Exploratory Data Analysis and Feature Engineering pipeline** for a Recipe Recommender System — covering data cleaning, interaction analysis, nutritional feature extraction, and NLP-based ingredient/tag processing to build a foundation for personalised recipe recommendations.
 
@@ -192,12 +191,6 @@ jupyter notebook 03_FeatureExtractionPart02-CompleteSolution.ipynb
 **Praasuk Jain**
 - GitHub: [@PJ2001-IND](https://github.com/PJ2001-IND)
 - LinkedIn: [praasuk-jain](https://www.linkedin.com/in/praasuk-jain-425b6b1a3/)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
