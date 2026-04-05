@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![AWS EMR](https://img.shields.io/badge/AWS-EMR%20%7C%20S3-FF9900?style=flat-square&logo=amazon-aws)
-![License](https://img.shields.io/badge/License-Academic-lightgrey?style=flat-square)
 
 > A **large-scale recipe recommendation system pipeline** built entirely on **Apache PySpark** — processing **231,637 recipes** and **1,132,367 user interactions** from food.com. The project covers end-to-end feature extraction, EDA, nutrition standardisation, time-based feature engineering, tag-level analysis with OHE, and user behaviour feature construction — all designed to produce a model-ready dataset for downstream recommendation modelling.
 
